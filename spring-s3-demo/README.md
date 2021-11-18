@@ -7,5 +7,5 @@ The following are the steps that we need to do in order to implement this projec
 
 - Create AWS account with admin role.
 - Create an user to use the s3 service.
-- Create a bucket to host the file
+- Create a bucket to host files
 - Create the spring-boot app using [spring-initializr](https://start.spring.io/).
